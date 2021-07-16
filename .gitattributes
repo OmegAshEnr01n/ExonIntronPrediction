@@ -1,0 +1,4 @@
+ExonIntronPrediction/Panthera_leo/
+ filter=lfs diff=lfs merge=lfs -text
+*.gtf filter=lfs diff=lfs merge=lfs -text
+*.fa filter=lfs diff=lfs merge=lfs -text
